@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson 5.6.1</string>
+    <string name="div">div</string>
+    <string name="mult">mult</string>
+    <string name="sub">sub</string>
+    <string name="sum">sum</string>
+    <string name="words">One two three</string>>
+</resources>
